@@ -27,6 +27,8 @@ def decrypt():
         messagebox.showerror("encryption","Input Password")
     elif password != "4321":
         messagebox.showerror("encryption","Input Password")
+        
+ ### Created by Tareq ###
 
 def encrypt():
     password = code.get()
