@@ -25,7 +25,7 @@ This project is ideal for learning **Python GUI development**, basic **encryptio
 1. Run the script:
 
 ```bash
-python shadow_encryptor.py
+python encryptor-decryptor.py
 ```
 
 2. Enter the text you want to encrypt or decrypt.
